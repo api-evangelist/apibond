@@ -1,0 +1,51 @@
+{
+    "name": "APIBond",
+    "description": "<p>APIBond is an API management platform that acts as a proxy where you can validate, transform, secure, analyze and scale any existing API.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/apibond-logo.png",
+    "tags": [
+        "api service provider",
+        "have api",
+        "monitoring",
+        "security",
+        "testing"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/apibond\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "APIBond",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/apibond-logo.png",
+            "humanURL": "http:\/\/apibond.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apibond-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apibond-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Facebook",
+            "url": "https:\/\/www.facebook.com\/apibond"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/apibond"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/apibond.com\/"
+        }
+    ]
+}
